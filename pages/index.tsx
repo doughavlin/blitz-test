@@ -135,7 +135,7 @@ const Home: BlitzPage = () => {
         </footer>
 
         <style>{`
-          @import url("https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;700&display=swap");
+          @import url(https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@300;700&display=swap);
 
           html,
           body {
